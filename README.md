@@ -3,35 +3,38 @@
 Clonar o projeto
 https://github.com/Tomazzini/be-the-hero.git
 
-Run Api.
-Ir para a pasta backend
-cd be-the-hero/backend
+Run Api<br/>
+Ir para a pasta backend<br/>
+cd be-the-hero/backend<br/>
 
-Instalando as dependências
-yarn install.
+Instalando as dependências<br/>
+yarn install<br/>
 
-Rodar a aplicação
-yarn start
+Rodar a aplicação<br/>
+yarn start<br/>
 
-Run Projeto Web.
-Ir para a pasta frontend
-cd be-the-hero/frontend
+Run Projeto Web<br/>
+Ir para a pasta frontend<br/>
+cd be-the-hero/frontend<br/>
 
-Instalando as dependências
-yarn install.
+Instalando as dependências<br/>
+yarn install<br/>
 
-Rodar a aplicação
-yarn start
+Rodar a aplicação<br/>
+yarn start<br/>
 
-Run Projeto Mobile
-Ir para a pasta mobile
-cd be-the-hero/mobile
+Run Projeto Mobile<br/>
+Ir para a pasta mobile<br/>
+cd be-the-hero/mobile<br/>
 
-Instalando as dependências
-yarn install
+Instalando as dependências<br/>
+yarn install<br/>
 
-Rodar a aplicação
-yarn start
+Rodar a aplicação<br/>
+yarn start<br/>
 
-Tecnologias
-Typescript. React Native. Expo. Express.
+Tecnologias<br/>
+Typescript<br/> 
+React Native<br/> 
+Expo<br/> 
+Express<br/>
